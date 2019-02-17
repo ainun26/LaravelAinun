@@ -9,8 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>@yield('title') Tokap Admin </title>
-    <link rel="icon" type="image/png" href="{{url('favicon.png')}}">
+    <title>@yield('title') Admin </title>
+    <link rel="icon" type="image/png" href="{{url('logom.png')}}">
 
     <!-- Bootstrap core CSS-->
     <link href="{{url('theme-sbadmin/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
